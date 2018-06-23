@@ -169,12 +169,12 @@ button:focus {
   text-transform: uppercase;
   color: #fff;
   font-weight: 600;
-  background: #f3c300;
+  background: #A465FD;
   padding: 5px 30px;
 }
 
 .theme_btn:before {
-  background: #f8b100;
+  background: #A465FD;
 }
 
 .theme_btn:hover {
@@ -215,7 +215,7 @@ button:focus {
   -ms-transform: translateX(-100%);
   transform: translateX(-100%);
   z-index: -1;
-  background: #f8b100;
+  background: #A465FD;
   -webkit-transition: all 0.3s linear;
   -o-transition: all 0.3s linear;
   transition: all 0.3s linear;
@@ -246,7 +246,7 @@ button:focus {
 .book_now_btn {
   width: 100%;
   display: block;
-  background: #f3c300;
+  background: #A465FD;
   color: #222222;
   text-transform: uppercase;
   font-size: 14px;
@@ -278,7 +278,7 @@ button:focus {
 }
 
 .header-top a:hover {
-  color: #f3c300;
+  color: #A465FD;
 }
 
 .header-top ul {
@@ -319,13 +319,13 @@ button:focus {
 }
 
 .header-top .header-top-right .header-social a:hover {
-  color: #f3c300;
+  color: #A465FD;
 }
 
 .navbar {
   padding: 0px;
   border: 0px;
-  border-radius: 0px;
+  border-radius: 0px 0px 10px 10px;
 }
 
 .navbar {
@@ -850,7 +850,7 @@ button:focus {
 }
 
 .facilities_item .sec_h4 i {
-  color: #f3c300;
+  color: #A465FD;
   font-size: 24px;
   line-height: 38px;
   display: inline-block;
@@ -957,7 +957,7 @@ button:focus {
 }
 
 .testimonial_slider .testimonial_item .star a {
-  color: #f3c300;
+  color: #A465FD;
   font-size: 14px;
 }
 
@@ -978,7 +978,7 @@ button:focus {
 }
 
 .testimonial_slider .owl-dots .owl-dot.active {
-  background: #f3c300;
+  background: #A465FD;
 }
 
 /*---------------------------------------------------- */
@@ -1038,7 +1038,7 @@ button:focus {
 }
 
 .tags .tag_btn:before {
-  background: #f3c300;
+  background: #A465FD;
 }
 
 .tags .tag_btn + .tag_btn {
@@ -1104,7 +1104,8 @@ button:focus {
 }
 
 .categories_post:hover .categories_details {
-  background: rgba(248, 182, 0, 0.85);
+  background: #A465FD;
+  opacity: 0.5;
 }
 
 /*============ blog_left_sidebar css ==============*/
@@ -1199,7 +1200,7 @@ button:focus {
 .blog_right_sidebar .widget_title {
   font-size: 18px;
   line-height: 25px;
-  background: #f3c300;
+  background: #A465FD;
   text-align: center;
   color: #fff;
   padding: 8px 0px;
@@ -1216,7 +1217,7 @@ button:focus {
   padding-left: 20px;
   border-radius: 45px;
   z-index: 0;
-  background: #f3c300;
+  background: #A465FD;
 }
 
 .blog_right_sidebar .search_widget .input-group .form-control.placeholder {
@@ -1409,7 +1410,7 @@ button:focus {
 }
 
 .blog_right_sidebar .newsletter_widget .bbtns {
-  background: #f8b600;
+  background: #A465FD;
   color: #fff;
   font-size: 12px;
   line-height: 38px;
@@ -1441,7 +1442,7 @@ button:focus {
 }
 
 .blog_right_sidebar .tag_cloud_widget ul li a:hover {
-  background: #f3c300;
+  background: #A465FD;
   color: #fff;
 }
 
@@ -1471,7 +1472,7 @@ button:focus {
 }
 
 .blog-pagination .page-item.active .page-link {
-  background-color: #f3c300;
+  background-color: #A465FD;
   border-color: transparent;
   color: #fff;
 }
@@ -1498,7 +1499,7 @@ button:focus {
 .blog-pagination .page-link:hover {
   color: #fff;
   text-decoration: none;
-  background-color: #f3c300;
+  background-color: #A465FD;
   border-color: #eee;
 }
 
@@ -1738,7 +1739,7 @@ button:focus {
 }
 
 .comments-area .btn-reply:hover {
-  background-color: #f3c300;
+  background-color: #A465FD;
   color: #fff;
 }
 
@@ -1831,7 +1832,7 @@ button:focus {
   color: #fff;
   text-transform: uppercase;
   font-weight: 600;
-  background: #f8b600;
+  background: #A465FD;
   display: inline-block;
   padding: 7px 44px;
   -webkit-transition: all 0.2s linear;
@@ -1840,11 +1841,11 @@ button:focus {
 }
 
 .comment-form .primary-btn:before {
-  background: #f3c300;
+  background: #A465FD;
 }
 
 .comment-form .primary-btn:hover {
-  border-color: #f3c300 !important;
+  border-color: #A465FD !important;
   color: #fff  !important;
 }
 
@@ -1868,7 +1869,7 @@ button:focus {
   top: 0;
   font-size: 20px;
   line-height: 24px;
-  color: #f3c300;
+  color: #A465FD;
   font-weight: 600;
 }
 
@@ -1970,7 +1971,7 @@ button:focus {
 .modal-message .modal-dialog .modal-content .modal-header h2 {
   display: block;
   text-align: center;
-  color: #f3c300;
+  color: #A465FD;
   padding-bottom: 10px;
   font-family: "Poppins", sans-serif;
 }
@@ -2007,30 +2008,30 @@ button:focus {
 
 .sample-text-area p b {
   font-weight: bold;
-  color: #f3c300;
+  color: #A465FD;
 }
 
 .sample-text-area p i {
-  color: #f3c300;
+  color: #A465FD;
   font-style: italic;
 }
 
 .sample-text-area p sup {
-  color: #f3c300;
+  color: #A465FD;
   font-style: italic;
 }
 
 .sample-text-area p sub {
-  color: #f3c300;
+  color: #A465FD;
   font-style: italic;
 }
 
 .sample-text-area p del {
-  color: #f3c300;
+  color: #A465FD;
 }
 
 .sample-text-area p u {
-  color: #f3c300;
+  color: #A465FD;
 }
 
 /*============== End Elements Area css ================*/
@@ -2175,12 +2176,12 @@ button:focus {
 
 .link-border {
   background: transparent;
-  border: 1px solid #f3c300;
-  color: #f3c300;
+  border: 1px solid #A465FD;
+  color: #A465FD;
 }
 
 .link-border:before {
-  background: #f3c300;
+  background: #A465FD;
 }
 
 .radius {
@@ -2236,7 +2237,7 @@ button:focus {
 
 .generic-banner {
   margin-top: 60px;
-  background-color: #f8b600;
+  background-color: #A465FD;
   text-align: center;
 }
 
@@ -2333,7 +2334,7 @@ button:focus {
 }
 
 b, sup, sub, u, del {
-  color: #f8b600;
+  color: #A465FD;
 }
 
 h1 {
@@ -2472,25 +2473,25 @@ h1, h2, h3, h4, h5, h6 {
 
 .genric-btn.primary {
   color: #fff;
-  background: #f8b600;
+  background: #A465FD;
   border: 1px solid transparent;
 }
 
 .genric-btn.primary:hover {
-  color: #f8b600;
-  border: 1px solid #f8b600;
+  color: #A465FD;
+  border: 1px solid #A465FD;
   background: #fff;
 }
 
 .genric-btn.primary-border {
-  color: #f8b600;
-  border: 1px solid #f8b600;
+  color: #A465FD;
+  border: 1px solid #A465FD;
   background: #fff;
 }
 
 .genric-btn.primary-border:hover {
   color: #fff;
-  background: #f8b600;
+  background: #A465FD;
   border: 1px solid transparent;
 }
 
@@ -2626,7 +2627,7 @@ h1, h2, h3, h4, h5, h6 {
 .generic-blockquote {
   padding: 30px 50px 30px 30px;
   background: #fff;
-  border-left: 2px solid #f8b600;
+  border-left: 2px solid #A465FD;
 }
 
 @media (max-width: 991px) {
@@ -2768,7 +2769,7 @@ h1, h2, h3, h4, h5, h6 {
   position: absolute;
   width: 14px;
   height: 14px;
-  border: 3px solid #f8b600;
+  border: 3px solid #A465FD;
   background: #fff;
   top: 4px;
   left: 0;
@@ -2781,7 +2782,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .ordered-list li {
   list-style-type: decimal-leading-zero;
-  color: #f8b600;
+  color: #A465FD;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -2794,7 +2795,7 @@ h1, h2, h3, h4, h5, h6 {
 .ordered-list-alpha li {
   margin-left: 30px;
   list-style-type: lower-alpha;
-  color: #f8b600;
+  color: #A465FD;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -2807,7 +2808,7 @@ h1, h2, h3, h4, h5, h6 {
 .ordered-list-roman li {
   margin-left: 30px;
   list-style-type: lower-roman;
-  color: #f8b600;
+  color: #A465FD;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -2879,7 +2880,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .single-input-primary:focus {
   outline: none;
-  border: 1px solid #f8b600;
+  border: 1px solid #A465FD;
 }
 
 .single-input-accent {
@@ -2940,7 +2941,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 15px;
   height: 15px;
   border-radius: 50%;
-  background: #f8b600;
+  background: #A465FD;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   -o-transition: all 0.2s;
@@ -3029,7 +3030,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .primary-switch input:checked + label:before {
-  background: #f8b600;
+  background: #A465FD;
 }
 
 .confirm-switch {
@@ -3391,12 +3392,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .default-select .nice-select .list .option.selected {
-  color: #f8b600;
+  color: #A465FD;
   background: transparent;
 }
 
 .default-select .nice-select .list .option:hover {
-  color: #f8b600;
+  color: #A465FD;
   background: transparent;
 }
 
@@ -3457,12 +3458,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .form-select .nice-select .list .option.selected {
-  color: #f8b600;
+  color: #A465FD;
   background: transparent;
 }
 
 .form-select .nice-select .list .option:hover {
-  color: #f8b600;
+  color: #A465FD;
   background: transparent;
 }
 
@@ -3494,7 +3495,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .single-footer-widget ul li a:hover {
-  color: #f3c300;
+  color: #A465FD;
 }
 
 .single-footer-widget .instafeed {
@@ -3547,7 +3548,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .single-footer-widget .sub-btn {
-  background: #f3c300;
+  background: #A465FD;
   color: #fff;
   font-weight: 300;
   border-radius: 0;
@@ -3580,7 +3581,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .footer-bottom .footer-text a {
-  color: #f3c300;
+  color: #A465FD;
 }
 
 .footer-bottom .footer-social {
@@ -3598,7 +3599,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .footer-bottom .footer-social a:hover {
-  color: #f3c300;
+  color: #A465FD;
 }
 
 /*---------------------------------------------------- */
