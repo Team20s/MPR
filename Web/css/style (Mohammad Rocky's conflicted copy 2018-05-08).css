@@ -169,12 +169,12 @@ button:focus {
   text-transform: uppercase;
   color: #fff;
   font-weight: 600;
-  background: #f3c300;
+  background: #A465FD;
   padding: 5px 30px;
 }
 
 .theme_btn:before {
-  background: #f8b100;
+  background: #A465FD;
 }
 
 .theme_btn:hover {
@@ -215,7 +215,7 @@ button:focus {
   -ms-transform: translateX(-100%);
   transform: translateX(-100%);
   z-index: -1;
-  background: #f8b100;
+  background: #A465FD;
   -webkit-transition: all 0.3s linear;
   -o-transition: all 0.3s linear;
   transition: all 0.3s linear;
@@ -246,7 +246,7 @@ button:focus {
 .book_now_btn {
   width: 100%;
   display: block;
-  background: #f3c300;
+  background: #A465FD;
   color: #222222;
   text-transform: uppercase;
   font-size: 14px;
@@ -278,7 +278,7 @@ button:focus {
 }
 
 .header-top a:hover {
-  color: #f3c300;
+  color: #A465FD;
 }
 
 .header-top ul {
@@ -319,13 +319,13 @@ button:focus {
 }
 
 .header-top .header-top-right .header-social a:hover {
-  color: #f3c300;
+  color: #A465FD;
 }
 
 .navbar {
   padding: 0px;
   border: 0px;
-  border-radius: 0px;
+  border-radius: 0px 0px 10px 10px;
 }
 
 .navbar {
@@ -812,7 +812,7 @@ button:focus {
 }
 
 .facilities_item .sec_h4 i {
-  color: #f3c300;
+  color: #A465FD;
   font-size: 24px;
   line-height: 38px;
   display: inline-block;
@@ -879,7 +879,7 @@ button:focus {
 }
 
 .testimonial_slider .testimonial_item .star a {
-  color: #f3c300;
+  color: #A465FD;
   font-size: 14px;
 }
 
@@ -900,7 +900,7 @@ button:focus {
 }
 
 .testimonial_slider .owl-dots .owl-dot.active {
-  background: #f3c300;
+  background: #A465FD;
 }
 
 /*---------------------------------------------------- */
@@ -960,7 +960,7 @@ button:focus {
 }
 
 .tags .tag_btn:before {
-  background: #f3c300;
+  background: #A465FD;
 }
 
 .tags .tag_btn + .tag_btn {
@@ -1018,7 +1018,8 @@ button:focus {
 }
 
 .categories_post:hover .categories_details {
-  background: rgba(248, 182, 0, 0.85);
+  background: #A465FD;
+  opacity: 0.5;
 }
 
 /*============ blog_left_sidebar css ==============*/
@@ -1109,7 +1110,7 @@ button:focus {
 .blog_right_sidebar .widget_title {
   font-size: 18px;
   line-height: 25px;
-  background: #f3c300;
+  background: #A465FD;
   text-align: center;
   color: #fff;
   padding: 8px 0px;
@@ -1126,7 +1127,7 @@ button:focus {
   padding-left: 20px;
   border-radius: 45px;
   z-index: 0;
-  background: #f3c300;
+  background: #A465FD;
 }
 
 .blog_right_sidebar .search_widget .input-group .form-control.placeholder {
@@ -1319,7 +1320,7 @@ button:focus {
 }
 
 .blog_right_sidebar .newsletter_widget .bbtns {
-  background: #f8b600;
+  background: #A465FD;
   color: #fff;
   font-size: 12px;
   line-height: 38px;
@@ -1351,7 +1352,7 @@ button:focus {
 }
 
 .blog_right_sidebar .tag_cloud_widget ul li a:hover {
-  background: #f3c300;
+  background: #A465FD;
   color: #fff;
 }
 
@@ -1381,7 +1382,7 @@ button:focus {
 }
 
 .blog-pagination .page-item.active .page-link {
-  background-color: #f3c300;
+  background-color: #A465FD;
   border-color: transparent;
   color: #fff;
 }
@@ -1408,7 +1409,7 @@ button:focus {
 .blog-pagination .page-link:hover {
   color: #fff;
   text-decoration: none;
-  background-color: #f3c300;
+  background-color: #A465FD;
   border-color: #eee;
 }
 
@@ -1648,7 +1649,7 @@ button:focus {
 }
 
 .comments-area .btn-reply:hover {
-  background-color: #f3c300;
+  background-color: #A465FD;
   color: #fff;
 }
 
@@ -1740,7 +1741,7 @@ button:focus {
   color: #fff;
   text-transform: uppercase;
   font-weight: 600;
-  background: #f8b600;
+  background: #A465FD;
   display: inline-block;
   padding: 7px 44px;
   -webkit-transition: all 0.2s linear;
@@ -1749,11 +1750,11 @@ button:focus {
 }
 
 .comment-form .primary-btn:before {
-  background: #f3c300;
+  background: #A465FD;
 }
 
 .comment-form .primary-btn:hover {
-  border-color: #f3c300 !important;
+  border-color: #A465FD !important;
   color: #fff  !important;
 }
 
@@ -1777,7 +1778,7 @@ button:focus {
   top: 0;
   font-size: 20px;
   line-height: 24px;
-  color: #f3c300;
+  color: #A465FD;
   font-weight: 600;
 }
 
@@ -1863,7 +1864,7 @@ button:focus {
 }
 
 .single-footer-widget ul li a:hover {
-  color: #f3c300;
+  color: #A465FD;
 }
 
 .single-footer-widget .instafeed {
@@ -1916,7 +1917,7 @@ button:focus {
 }
 
 .single-footer-widget .sub-btn {
-  background: #f3c300;
+  background: #A465FD;
   color: #fff;
   font-weight: 300;
   border-radius: 0;
@@ -1949,7 +1950,7 @@ button:focus {
 }
 
 .footer-bottom .footer-text a {
-  color: #f3c300;
+  color: #A465FD;
 }
 
 .footer-bottom .footer-social {
@@ -1967,7 +1968,7 @@ button:focus {
 }
 
 .footer-bottom .footer-social a:hover {
-  color: #f3c300;
+  color: #A465FD;
 }
 
 /*---------------------------------------------------- */
