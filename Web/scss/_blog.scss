@@ -95,7 +95,8 @@
     }
     &:hover{
         .categories_details{
-            background: rgba(248, 182, 0 , 0.85);
+            background: #A465FD;
+            opacity:0.5;
         }
     }
 }
@@ -341,7 +342,7 @@
             }
         }
         .bbtns{
-            background: #f8b600;
+            background: #A465FD;
             color: #fff;
             font-size: 12px;
             line-height: 38px;
@@ -702,7 +703,7 @@
         color:#fff;
         text-transform: uppercase;
         font-weight:600;
-        background: #f8b600;
+        background: #A465FD;
         display: inline-block;
         padding: 7px 44px;
         transition: all 0.2s linear;
